@@ -9,7 +9,7 @@ Item {
 
     MediaPlayer {
         id: playMusic
-        source: "qrc:/media/01. Kavinsky & Lovefoxxx - Nightcall.mp3"
+        source: "file:///home/mruiz/Music/Beirut - Santa Fe.mp3"
     }
 
     Row {
